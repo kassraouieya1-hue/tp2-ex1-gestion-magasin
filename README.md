@@ -1,6 +1,6 @@
 # TP 2 : Exercice 1 : Gestion de magasin
 
-**Nom et prénom :Eya kassraoui
+Nom et prénom :Eya kassraoui
 
 ## Diagramme de classes UML
 
