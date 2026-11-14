@@ -1,6 +1,6 @@
-# TP 2 : Héritage et Polymorphisme — Exercice 1 : Gestion de magasin
+# TP 2 : Exercice 1 : Gestion de magasin
 
-**Nom et prénom :** _à compléter_
+**Nom et prénom :Eya kassraoui
 
 ## Diagramme de classes UML
 
