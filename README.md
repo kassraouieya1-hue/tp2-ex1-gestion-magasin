@@ -37,9 +37,4 @@ classDiagram
     TestMagasin ..> Magasin
 ```
 
-## Compilation et exécution
 
-```bash
-javac *.java
-java TestMagasin
-```
